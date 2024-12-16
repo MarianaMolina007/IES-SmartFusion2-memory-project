@@ -1,0 +1,1788 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              ./CMSIS/startup_gcc/newlib_stubs.o (__errno)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                              ./drivers/mss_sys_services/mss_sys_services.o (memcpy)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+g_mss_uart1         0x40              ./drivers/mss_uart/mss_uart.o
+g_mss_uart0         0x40              ./drivers/mss_uart/mss_uart.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000        0xe ./hal/CortexM3/GNU/hal.o
+ .data          0x0000000000000000        0x0 ./hal/CortexM3/GNU/hal.o
+ .bss           0x0000000000000000        0x0 ./hal/CortexM3/GNU/hal.o
+ .debug_line    0x0000000000000000       0x4d ./hal/CortexM3/GNU/hal.o
+ .debug_info    0x0000000000000000       0x26 ./hal/CortexM3/GNU/hal.o
+ .debug_abbrev  0x0000000000000000       0x14 ./hal/CortexM3/GNU/hal.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./hal/CortexM3/GNU/hal.o
+ .debug_str     0x0000000000000000       0x9a ./hal/CortexM3/GNU/hal.o
+ .text          0x0000000000000000       0x90 ./hal/CortexM3/GNU/hw_reg_access.o
+ .data          0x0000000000000000        0x0 ./hal/CortexM3/GNU/hw_reg_access.o
+ .bss           0x0000000000000000        0x0 ./hal/CortexM3/GNU/hw_reg_access.o
+ .debug_line    0x0000000000000000       0x8b ./hal/CortexM3/GNU/hw_reg_access.o
+ .debug_info    0x0000000000000000       0x26 ./hal/CortexM3/GNU/hw_reg_access.o
+ .debug_abbrev  0x0000000000000000       0x14 ./hal/CortexM3/GNU/hw_reg_access.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./hal/CortexM3/GNU/hw_reg_access.o
+ .debug_str     0x0000000000000000       0xa4 ./hal/CortexM3/GNU/hw_reg_access.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./hal/CortexM3/cortex_nvic.o
+ .text          0x0000000000000000        0x0 ./hal/CortexM3/cortex_nvic.o
+ .data          0x0000000000000000        0x0 ./hal/CortexM3/cortex_nvic.o
+ .bss           0x0000000000000000        0x0 ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_init
+                0x0000000000000000        0xe ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_set_handler
+                0x0000000000000000       0x16 ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_set_priority
+                0x0000000000000000       0x18 ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_enable_interrupt
+                0x0000000000000000       0x14 ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_disable_interrupt
+                0x0000000000000000       0x14 ./hal/CortexM3/cortex_nvic.o
+ .text.NVIC_clear_interrupt
+                0x0000000000000000       0x14 ./hal/CortexM3/cortex_nvic.o
+ .debug_info    0x0000000000000000      0x1a1 ./hal/CortexM3/cortex_nvic.o
+ .debug_abbrev  0x0000000000000000       0x93 ./hal/CortexM3/cortex_nvic.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./hal/CortexM3/cortex_nvic.o
+ .debug_ranges  0x0000000000000000       0x38 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0xb6 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000      0xa84 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x22 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x8e ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x51 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0xef ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x6a ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000      0x1df ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x64 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x18 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x35 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x34 ./hal/CortexM3/cortex_nvic.o
+ .debug_macro   0x0000000000000000       0x1c ./hal/CortexM3/cortex_nvic.o
+ .debug_line    0x0000000000000000      0x2f5 ./hal/CortexM3/cortex_nvic.o
+ .debug_str     0x0000000000000000     0x41c6 ./hal/CortexM3/cortex_nvic.o
+ .comment       0x0000000000000000       0x67 ./hal/CortexM3/cortex_nvic.o
+ .debug_frame   0x0000000000000000       0xf8 ./hal/CortexM3/cortex_nvic.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers_config/sys_config/sys_config.o
+ .text          0x0000000000000000        0x0 ./drivers_config/sys_config/sys_config.o
+ .data          0x0000000000000000        0x0 ./drivers_config/sys_config/sys_config.o
+ .bss           0x0000000000000000        0x0 ./drivers_config/sys_config/sys_config.o
+ .debug_info    0x0000000000000000       0x92 ./drivers_config/sys_config/sys_config.o
+ .debug_abbrev  0x0000000000000000       0x52 ./drivers_config/sys_config/sys_config.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0xc7 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0xef ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x3a ./drivers_config/sys_config/sys_config.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers_config/sys_config/sys_config.o
+ .debug_line    0x0000000000000000      0x2dd ./drivers_config/sys_config/sys_config.o
+ .debug_str     0x0000000000000000     0x955d ./drivers_config/sys_config/sys_config.o
+ .comment       0x0000000000000000       0x67 ./drivers_config/sys_config/sys_config.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_uart/mss_uart.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_uart/mss_uart.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_uart/mss_uart.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_uart/mss_uart.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x30 ./drivers/mss_uart/mss_uart.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x34 ./drivers/mss_uart/mss_uart.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000000000000000       0x34 ./drivers/mss_uart/mss_uart.o
+ .text.set_bit_reg8
+                0x0000000000000000       0x3a ./drivers/mss_uart/mss_uart.o
+ .text.clear_bit_reg8
+                0x0000000000000000       0x3a ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_init
+                0x0000000000000000       0x70 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_lin_init
+                0x0000000000000000       0x68 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_irda_init
+                0x0000000000000000       0xdc ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_smartcard_init
+                0x0000000000000000       0x80 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_polled_tx
+                0x0000000000000000       0xc4 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_polled_tx_string
+                0x0000000000000000       0xb4 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_irq_tx
+                0x0000000000000000       0x9c ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_tx_complete
+                0x0000000000000000       0x74 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_get_rx
+                0x0000000000000000       0xbc ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_irq
+                0x0000000000000000       0xa4 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_irq
+                0x0000000000000000       0x9c ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_rx_handler
+                0x0000000000000000       0xa8 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_loopback
+                0x0000000000000000       0xd8 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_rxstatus_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_tx_handler
+                0x0000000000000000       0x84 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_modemstatus_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_fill_tx_fifo
+                0x0000000000000000       0xb8 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_get_rx_status
+                0x0000000000000000       0x68 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_get_modem_status
+                0x0000000000000000       0x4c ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_get_tx_status
+                0x0000000000000000       0x60 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_break
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_clear_break
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_pidpei_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_linbreak_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_linsync_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_nack_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_rx_timeout_handler
+                0x0000000000000000       0x78 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_half_duplex
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_half_duplex
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_rx_endian
+                0x0000000000000000       0x70 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_tx_endian
+                0x0000000000000000       0x70 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_filter_length
+                0x0000000000000000       0x58 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_afm
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_afm
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_afclear
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_afclear
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_rx_timeout
+                0x0000000000000000       0x58 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_rx_timeout
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_enable_tx_time_guard
+                0x0000000000000000       0x58 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_disable_tx_time_guard
+                0x0000000000000000       0x48 ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_address
+                0x0000000000000000       0x4c ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_ready_mode
+                0x0000000000000000       0x70 ./drivers/mss_uart/mss_uart.o
+ .text.config_baud_divisors
+                0x0000000000000000      0x14c ./drivers/mss_uart/mss_uart.o
+ .text.MSS_UART_set_usart_mode
+                0x0000000000000000       0x80 ./drivers/mss_uart/mss_uart.o
+ .text.global_init
+                0x0000000000000000      0x1d8 ./drivers/mss_uart/mss_uart.o
+ .text.default_tx_handler
+                0x0000000000000000       0xe8 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_uart/mss_uart.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_comblk.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_comblk.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_comblk.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_comblk.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x30 ./drivers/mss_sys_services/mss_comblk.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_comblk.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_comblk.o
+ .text.MSS_COMBLK_init
+                0x0000000000000000       0xd8 ./drivers/mss_sys_services/mss_comblk.o
+ .text.MSS_COMBLK_send_cmd_with_ptr
+                0x0000000000000000       0xfc ./drivers/mss_sys_services/mss_comblk.o
+ .text.MSS_COMBLK_send_cmd
+                0x0000000000000000      0x130 ./drivers/mss_sys_services/mss_comblk.o
+ .text.MSS_COMBLK_send_paged_cmd
+                0x0000000000000000      0x130 ./drivers/mss_sys_services/mss_comblk.o
+ .text.send_cmd_opcode
+                0x0000000000000000       0x3c ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_sys_services/mss_comblk.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_sys_services/mss_sys_services.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_sys_services.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_request_in_progress
+                0x0000000000000000        0x1 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_last_response_length
+                0x0000000000000000        0x2 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_event_handler
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_response
+                0x0000000000000000        0x2 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_initial_mssddr_facc1_cr
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_init
+                0x0000000000000000       0x50 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.asynchronous_event_handler
+                0x0000000000000000       0xe4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_get_serial_number
+                0x0000000000000000       0x24 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_get_user_code
+                0x0000000000000000       0x24 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_get_design_version
+                0x0000000000000000       0x24 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_get_device_certificate
+                0x0000000000000000       0x24 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_get_secondary_device_certificate
+                0x0000000000000000       0x70 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div1_seq
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div2_seq
+                0x0000000000000000        0x3 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div4_seq
+                0x0000000000000000        0x5 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div8_seq
+                0x0000000000000000        0x3 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div16_seq
+                0x0000000000000000        0x2 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.div32_seq
+                0x0000000000000000        0x2 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.divisor   0x0000000000000000       0x10 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.ind       0x0000000000000000        0x1 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.determine_seq
+                0x0000000000000000       0xac ./drivers/mss_sys_services/mss_sys_services.o
+ .text.clk_switching_fix
+                0x0000000000000000      0x29c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.revert_clk_config
+                0x0000000000000000      0x1c0 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_flash_freeze
+                0x0000000000000000       0xbc ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_128bit_aes
+                0x0000000000000000       0x92 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_256bit_aes
+                0x0000000000000000       0x92 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_sha256
+                0x0000000000000000       0x68 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_hmac
+                0x0000000000000000       0x80 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_key_tree
+                0x0000000000000000       0x6a ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_challenge_response
+                0x0000000000000000       0x62 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_reset
+                0x0000000000000000       0x60 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_self_test
+                0x0000000000000000       0x54 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_instantiate
+                0x0000000000000000       0x5a ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_generate
+                0x0000000000000000       0x68 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_reseed
+                0x0000000000000000       0x44 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_nrbg_uninstantiate
+                0x0000000000000000       0x60 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_zeroize_device
+                0x0000000000000000       0x80 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_isp_response
+                0x0000000000000000        0x2 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_isp_completion_handler
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_isp_page_read_handler
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.g_initial_envm_cr
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_initial_mssddr_facc2_cr
+                0x0000000000000000        0x4 ./drivers/mss_sys_services/mss_sys_services.o
+ .bss.g_mode    0x0000000000000000        0x1 ./drivers/mss_sys_services/mss_sys_services.o
+ .data.wait_for_clock_switch
+                0x0000000000000000        0x1 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.isp_page_read_handler
+                0x0000000000000000       0x88 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.isp_sys_completion_handler
+                0x0000000000000000       0x58 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_start_isp
+                0x0000000000000000       0xf8 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_initiate_iap
+                0x0000000000000000      0x120 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_check_digest
+                0x0000000000000000       0xd0 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_create_activation_code
+                0x0000000000000000       0x7c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_delete_activation_code
+                0x0000000000000000       0x7c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_get_number_of_keys
+                0x0000000000000000       0x94 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_enroll_key
+                0x0000000000000000       0xc4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_delete_key
+                0x0000000000000000       0x88 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_fetch_key
+                0x0000000000000000       0x9c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_export_keycodes
+                0x0000000000000000       0x84 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_import_keycodes
+                0x0000000000000000       0x84 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_fetch_ecc_public_key
+                0x0000000000000000       0x80 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_puf_get_random_seed
+                0x0000000000000000       0x80 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_ecc_point_multiplication
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_ecc_point_addition
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .rodata        0x0000000000000000       0x60 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_ecc_get_base_point
+                0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_start_clock_monitor
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_stop_clock_monitor
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_enable_puf_power_down
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_disable_puf_power_down
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_clear_lock_parity
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.MSS_SYS_clear_mesh_short
+                0x0000000000000000       0xa4 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.execute_service
+                0x0000000000000000       0x5c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.request_completion_handler
+                0x0000000000000000       0x2c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.signal_request_start
+                0x0000000000000000       0x2c ./drivers/mss_sys_services/mss_sys_services.o
+ .text.wait_for_request_completion
+                0x0000000000000000       0x28 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.write_ptr_value_into_array
+                0x0000000000000000       0x52 ./drivers/mss_sys_services/mss_sys_services.o
+ .text.write_array_into_ptr_value
+                0x0000000000000000       0x5c ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_info    0x0000000000000000     0x2867 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_abbrev  0x0000000000000000      0x367 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_aranges
+                0x0000000000000000      0x1c8 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_ranges  0x0000000000000000      0x1b8 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x3f4 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x2f8 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x174 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x58 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x1f ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x43 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x20 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x18e ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000      0x339 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x10 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_line    0x0000000000000000     0x15a5 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_str     0x0000000000000000     0xf02f ./drivers/mss_sys_services/mss_sys_services.o
+ .comment       0x0000000000000000       0x67 ./drivers/mss_sys_services/mss_sys_services.o
+ .debug_frame   0x0000000000000000      0x7dc ./drivers/mss_sys_services/mss_sys_services.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_rtc/mss_rtc.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_rtc/mss_rtc.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_rtc/mss_rtc.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_rtc/mss_rtc.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x30 ./drivers/mss_rtc/mss_rtc.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x34 ./drivers/mss_rtc/mss_rtc.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000000000000000       0x34 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_init
+                0x0000000000000000       0x8c ./drivers/mss_rtc/mss_rtc.o
+ .rodata        0x0000000000000000       0x10 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_set_calendar_count
+                0x0000000000000000      0x250 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_set_binary_count
+                0x0000000000000000       0x88 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_get_calendar_count
+                0x0000000000000000       0x88 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_get_binary_count
+                0x0000000000000000       0x70 ./drivers/mss_rtc/mss_rtc.o
+ .text.add_alarm_cfg_values
+                0x0000000000000000       0x50 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_set_calendar_count_alarm
+                0x0000000000000000      0x104 ./drivers/mss_rtc/mss_rtc.o
+ .text.set_rtc_mode
+                0x0000000000000000       0x48 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_set_binary_count_alarm
+                0x0000000000000000       0x8c ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_start
+                0x0000000000000000       0x18 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_stop
+                0x0000000000000000       0x2c ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_reset_counter
+                0x0000000000000000       0x2c ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_get_update_flag
+                0x0000000000000000       0x20 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_clear_update_flag
+                0x0000000000000000       0x18 ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_enable_irq
+                0x0000000000000000        0xe ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_disable_irq
+                0x0000000000000000        0xe ./drivers/mss_rtc/mss_rtc.o
+ .text.MSS_RTC_clear_irq
+                0x0000000000000000       0x28 ./drivers/mss_rtc/mss_rtc.o
+ .text.get_clock_mode
+                0x0000000000000000       0x24 ./drivers/mss_rtc/mss_rtc.o
+ .debug_info    0x0000000000000000     0x1ac9 ./drivers/mss_rtc/mss_rtc.o
+ .debug_abbrev  0x0000000000000000      0x38f ./drivers/mss_rtc/mss_rtc.o
+ .debug_aranges
+                0x0000000000000000       0xc0 ./drivers/mss_rtc/mss_rtc.o
+ .debug_ranges  0x0000000000000000       0xc8 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x232 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x4a ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x174 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x58 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x1f ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x43 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x20 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x18e ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000      0x339 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x10 ./drivers/mss_rtc/mss_rtc.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_rtc/mss_rtc.o
+ .debug_line    0x0000000000000000      0xa04 ./drivers/mss_rtc/mss_rtc.o
+ .debug_str     0x0000000000000000     0xd7d9 ./drivers/mss_rtc/mss_rtc.o
+ .comment       0x0000000000000000       0x67 ./drivers/mss_rtc/mss_rtc.o
+ .debug_frame   0x0000000000000000      0x318 ./drivers/mss_rtc/mss_rtc.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_nvm/mss_nvm.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_nvm/mss_nvm.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_nvm/mss_nvm.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_nvm/mss_nvm.o
+ .text.NVM_unlock
+                0x0000000000000000      0x1bc ./drivers/mss_nvm/mss_nvm.o
+ .text.NVM_read_page_write_count
+                0x0000000000000000      0x100 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_nvm/mss_nvm.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_hpdma/mss_hpdma.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_hpdma/mss_hpdma.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_hpdma/mss_hpdma.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x30 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x34 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000000000000000       0x34 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_init
+                0x0000000000000000       0xb8 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_start
+                0x0000000000000000       0xd4 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_pause
+                0x0000000000000000       0x2c ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_resume
+                0x0000000000000000       0x2c ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_abort
+                0x0000000000000000       0x48 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_get_transfer_status
+                0x0000000000000000       0x18 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.MSS_HPDMA_set_handler
+                0x0000000000000000       0x2c ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_hpdma/mss_hpdma.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./drivers/mss_gpio/mss_gpio.o
+ .text          0x0000000000000000        0x0 ./drivers/mss_gpio/mss_gpio.o
+ .data          0x0000000000000000        0x0 ./drivers/mss_gpio/mss_gpio.o
+ .bss           0x0000000000000000        0x0 ./drivers/mss_gpio/mss_gpio.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x30 ./drivers/mss_gpio/mss_gpio.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x34 ./drivers/mss_gpio/mss_gpio.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000000000000000       0x34 ./drivers/mss_gpio/mss_gpio.o
+ .rodata.g_config_reg_lut
+                0x0000000000000000       0x80 ./drivers/mss_gpio/mss_gpio.o
+ .rodata.g_gpio_irqn_lut
+                0x0000000000000000       0x20 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_init
+                0x0000000000000000       0x78 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_config
+                0x0000000000000000       0x38 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_set_output
+                0x0000000000000000       0x64 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_drive_inout
+                0x0000000000000000       0xf0 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_enable_irq
+                0x0000000000000000       0x58 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_disable_irq
+                0x0000000000000000       0x48 ./drivers/mss_gpio/mss_gpio.o
+ .text.MSS_GPIO_clear_irq
+                0x0000000000000000       0x3c ./drivers/mss_gpio/mss_gpio.o
+ .debug_info    0x0000000000000000     0x10dc ./drivers/mss_gpio/mss_gpio.o
+ .debug_abbrev  0x0000000000000000      0x1e3 ./drivers/mss_gpio/mss_gpio.o
+ .debug_aranges
+                0x0000000000000000       0x68 ./drivers/mss_gpio/mss_gpio.o
+ .debug_ranges  0x0000000000000000       0x58 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0x10f ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0xa84 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x26 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x8e ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x51 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0xef ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x6a ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0x1df ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0xca6 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0x265 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000      0x11c ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x64 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x18 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x35 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./drivers/mss_gpio/mss_gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./drivers/mss_gpio/mss_gpio.o
+ .debug_line    0x0000000000000000      0x539 ./drivers/mss_gpio/mss_gpio.o
+ .debug_str     0x0000000000000000     0xad89 ./drivers/mss_gpio/mss_gpio.o
+ .comment       0x0000000000000000       0x67 ./drivers/mss_gpio/mss_gpio.o
+ .debug_frame   0x0000000000000000      0x198 ./drivers/mss_gpio/mss_gpio.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .group         0x0000000000000000        0xc ./CMSIS/startup_gcc/newlib_stubs.o
+ .text          0x0000000000000000        0x0 ./CMSIS/startup_gcc/newlib_stubs.o
+ .data          0x0000000000000000        0x0 ./CMSIS/startup_gcc/newlib_stubs.o
+ .bss           0x0000000000000000        0x0 ./CMSIS/startup_gcc/newlib_stubs.o
+ .bss.__env     0x0000000000000000        0x4 ./CMSIS/startup_gcc/newlib_stubs.o
+ .data.environ  0x0000000000000000        0x4 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._close   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._execve  0x0000000000000000       0x22 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._exit    0x0000000000000000        0xa ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._fork    0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._fstat   0x0000000000000000       0x1e ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._getpid  0x0000000000000000        0xe ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._isatty  0x0000000000000000       0x14 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._kill    0x0000000000000000       0x20 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._link    0x0000000000000000       0x20 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._lseek   0x0000000000000000       0x18 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._open    0x0000000000000000       0x1a ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._read    0x0000000000000000       0x18 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._write_r
+                0x0000000000000000       0x1a ./CMSIS/startup_gcc/newlib_stubs.o
+ .bss.heap_end.5417
+                0x0000000000000000        0x4 ./CMSIS/startup_gcc/newlib_stubs.o
+ .rodata        0x0000000000000000       0x30 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._sbrk    0x0000000000000000       0x9c ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._stat    0x0000000000000000       0x1e ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._times   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._unlink  0x0000000000000000       0x1e ./CMSIS/startup_gcc/newlib_stubs.o
+ .text._wait    0x0000000000000000       0x1e ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_info    0x0000000000000000     0x1071 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_abbrev  0x0000000000000000      0x333 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_ranges  0x0000000000000000       0x98 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x1fa ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0xa84 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x18 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x22 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x5e ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x94 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x35 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x34 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x10e ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x8d ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x57 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x58 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x1f ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x43 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x20 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x18e ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x339 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x29 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x10 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x35 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x6a ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x1c ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x52 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x40 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x10 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x40 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0xd7 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x1c ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x3d ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x51a ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x16 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x10 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x10 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x35 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x122 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000       0x10 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_macro   0x0000000000000000      0x241 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_line    0x0000000000000000      0x550 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_str     0x0000000000000000     0x8a84 ./CMSIS/startup_gcc/newlib_stubs.o
+ .comment       0x0000000000000000       0x67 ./CMSIS/startup_gcc/newlib_stubs.o
+ .debug_frame   0x0000000000000000      0x2a8 ./CMSIS/startup_gcc/newlib_stubs.o
+ .text          0x0000000000000000        0x0 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .data          0x0000000000000000        0x0 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .bss           0x0000000000000000        0x0 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./CMSIS/system_m2sxxx.o
+ .text          0x0000000000000000        0x0 ./CMSIS/system_m2sxxx.o
+ .data          0x0000000000000000        0x0 ./CMSIS/system_m2sxxx.o
+ .bss           0x0000000000000000        0x0 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyPCLK0
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyPCLK1
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyPCLK2
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyFIC0
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyFIC1
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .data.g_FrequencyFIC64
+                0x0000000000000000        0x4 ./CMSIS/system_m2sxxx.o
+ .rodata        0x0000000000000000        0x8 ./CMSIS/system_m2sxxx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xfc ./CMSIS/system_m2sxxx.o
+ .text.get_rcosc_25_50mhz_frequency
+                0x0000000000000000       0x3c ./CMSIS/system_m2sxxx.o
+ .text.set_clock_frequency_globals
+                0x0000000000000000       0x5c ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000      0xa84 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x26 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x22 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x8e ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x51 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0xef ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x6a ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000      0x1df ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x34 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x34 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000      0xca6 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000      0x265 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x3a ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000000       0x34 ./CMSIS/system_m2sxxx.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .group         0x0000000000000000        0xc ./main.o
+ .text          0x0000000000000000        0x0 ./main.o
+ .data          0x0000000000000000        0x0 ./main.o
+ .bss           0x0000000000000000        0x0 ./main.o
+ .debug_macro   0x0000000000000000      0xa84 ./main.o
+ .debug_macro   0x0000000000000000       0x22 ./main.o
+ .debug_macro   0x0000000000000000       0x8e ./main.o
+ .debug_macro   0x0000000000000000       0x51 ./main.o
+ .debug_macro   0x0000000000000000       0xef ./main.o
+ .debug_macro   0x0000000000000000       0x6a ./main.o
+ .debug_macro   0x0000000000000000      0x1df ./main.o
+ .debug_macro   0x0000000000000000       0x26 ./main.o
+ .debug_macro   0x0000000000000000       0x34 ./main.o
+ .debug_macro   0x0000000000000000      0xca6 ./main.o
+ .debug_macro   0x0000000000000000      0x265 ./main.o
+ .debug_macro   0x0000000000000000      0x174 ./main.o
+ .debug_macro   0x0000000000000000      0x177 ./main.o
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xc0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0000000020000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD ./hal/CortexM3/GNU/hal.o
+LOAD ./hal/CortexM3/GNU/hw_reg_access.o
+LOAD ./hal/CortexM3/cortex_nvic.o
+LOAD ./drivers_config/sys_config/sys_config.o
+LOAD ./drivers/mss_uart/mss_uart.o
+LOAD ./drivers/mss_sys_services/mss_comblk.o
+LOAD ./drivers/mss_sys_services/mss_sys_services.o
+LOAD ./drivers/mss_rtc/mss_rtc.o
+LOAD ./drivers/mss_nvm/mss_nvm.o
+LOAD ./drivers/mss_hpdma/mss_hpdma.o
+LOAD ./drivers/mss_gpio/mss_gpio.o
+LOAD ./CMSIS/startup_gcc/newlib_stubs.o
+LOAD ./CMSIS/startup_gcc/startup_m2sxxx.o
+LOAD ./CMSIS/system_m2sxxx.o
+LOAD ./main.o
+START GROUP
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+START GROUP
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+END GROUP
+                0x0000000000000000                __DYNAMIC = 0x0
+                0x0000000020000000                RAM_START_ADDRESS = 0x20000000
+                0x0000000000010000                RAM_SIZE = 0x10000
+                0x0000000000001000                MAIN_STACK_SIZE = 0x1000
+                0x0000000000001000                MIN_SIZE_HEAP = 0x1000
+                0x0000000020010000                PROVIDE (__main_stack_start = (RAM_START_ADDRESS + RAM_SIZE))
+                0x0000000020010000                PROVIDE (_estack = __main_stack_start)
+                0x0000000000000000                PROVIDE (__mirrored_nvm = 0x0)
+                0x0000000000000000                PROVIDE (__smartfusion2_memory_remap = 0x0)
+
+.vector_table   0x0000000020000000      0x190
+                0x0000000020000000                __vector_table_load = LOADADDR (.vector_table)
+                0x0000000020000000                __vector_table_start = .
+                0x0000000020000000                __vector_table_vma_base_address = .
+ *(.isr_vector)
+ .isr_vector    0x0000000020000000      0x190 ./CMSIS/startup_gcc/startup_m2sxxx.o
+                0x0000000020000000                g_pfnVectors
+                0x0000000020000190                . = ALIGN (0x10)
+                0x0000000020000190                _evector_table = .
+
+.boot_code      0x0000000020000190      0x320
+ *(.boot_code)
+ .boot_code     0x0000000020000190      0x31c ./CMSIS/startup_gcc/startup_m2sxxx.o
+                0x0000000020000190                Reset_Handler
+                0x000000002000037e                NMI_Handler
+                0x0000000020000380                HardFault_Handler
+                0x0000000020000382                MemManage_Handler
+                0x0000000020000384                BusFault_Handler
+                0x0000000020000386                UsageFault_Handler
+                0x0000000020000388                SVC_Handler
+                0x000000002000038a                DebugMon_Handler
+                0x000000002000038c                PendSV_Handler
+                0x000000002000038e                SysTick_Handler
+                0x0000000020000390                WdogWakeup_IRQHandler
+                0x0000000020000392                RTC_Wakeup_IRQHandler
+                0x0000000020000394                SPI0_IRQHandler
+                0x0000000020000396                SPI1_IRQHandler
+                0x0000000020000398                I2C0_IRQHandler
+                0x000000002000039a                I2C0_SMBAlert_IRQHandler
+                0x000000002000039c                I2C0_SMBus_IRQHandler
+                0x000000002000039e                I2C1_IRQHandler
+                0x00000000200003a0                I2C1_SMBAlert_IRQHandler
+                0x00000000200003a2                I2C1_SMBus_IRQHandler
+                0x00000000200003a8                EthernetMAC_IRQHandler
+                0x00000000200003aa                DMA_IRQHandler
+                0x00000000200003ac                Timer1_IRQHandler
+                0x00000000200003ae                Timer2_IRQHandler
+                0x00000000200003b0                CAN_IRQHandler
+                0x00000000200003b2                ENVM0_IRQHandler
+                0x00000000200003b4                ENVM1_IRQHandler
+                0x00000000200003b8                USB_IRQHandler
+                0x00000000200003ba                USB_DMA_IRQHandler
+                0x00000000200003bc                PLL_Lock_IRQHandler
+                0x00000000200003be                PLL_LockLost_IRQHandler
+                0x00000000200003c0                CommSwitchError_IRQHandler
+                0x00000000200003c2                CacheError_IRQHandler
+                0x00000000200003c4                DDR_IRQHandler
+                0x00000000200003ca                ECC_Error_IRQHandler
+                0x00000000200003cc                MDDR_IOCalib_IRQHandler
+                0x00000000200003ce                FAB_PLL_Lock_IRQHandler
+                0x00000000200003d0                FAB_PLL_LockLost_IRQHandler
+                0x00000000200003d2                FIC64_IRQHandler
+                0x00000000200003d4                FabricIrq0_IRQHandler
+                0x00000000200003d6                FabricIrq1_IRQHandler
+                0x00000000200003d8                FabricIrq2_IRQHandler
+                0x00000000200003da                FabricIrq3_IRQHandler
+                0x00000000200003dc                FabricIrq4_IRQHandler
+                0x00000000200003de                FabricIrq5_IRQHandler
+                0x00000000200003e0                FabricIrq6_IRQHandler
+                0x00000000200003e2                FabricIrq7_IRQHandler
+                0x00000000200003e4                FabricIrq8_IRQHandler
+                0x00000000200003e6                FabricIrq9_IRQHandler
+                0x00000000200003e8                FabricIrq10_IRQHandler
+                0x00000000200003ea                FabricIrq11_IRQHandler
+                0x00000000200003ec                FabricIrq12_IRQHandler
+                0x00000000200003ee                FabricIrq13_IRQHandler
+                0x00000000200003f0                FabricIrq14_IRQHandler
+                0x00000000200003f2                FabricIrq15_IRQHandler
+                0x00000000200003f4                GPIO0_IRQHandler
+                0x00000000200003f6                GPIO1_IRQHandler
+                0x00000000200003f8                GPIO2_IRQHandler
+                0x00000000200003fa                GPIO3_IRQHandler
+                0x00000000200003fc                GPIO4_IRQHandler
+                0x00000000200003fe                GPIO5_IRQHandler
+                0x0000000020000400                GPIO6_IRQHandler
+                0x0000000020000402                GPIO7_IRQHandler
+                0x0000000020000404                GPIO8_IRQHandler
+                0x0000000020000406                GPIO9_IRQHandler
+                0x0000000020000408                GPIO10_IRQHandler
+                0x000000002000040a                GPIO11_IRQHandler
+                0x000000002000040c                GPIO12_IRQHandler
+                0x000000002000040e                GPIO13_IRQHandler
+                0x0000000020000410                GPIO14_IRQHandler
+                0x0000000020000412                GPIO15_IRQHandler
+                0x0000000020000414                GPIO16_IRQHandler
+                0x0000000020000416                GPIO17_IRQHandler
+                0x0000000020000418                GPIO18_IRQHandler
+                0x000000002000041a                GPIO19_IRQHandler
+                0x000000002000041c                GPIO20_IRQHandler
+                0x000000002000041e                GPIO21_IRQHandler
+                0x0000000020000420                GPIO22_IRQHandler
+                0x0000000020000422                GPIO23_IRQHandler
+                0x0000000020000424                GPIO24_IRQHandler
+                0x0000000020000426                GPIO25_IRQHandler
+                0x0000000020000428                GPIO26_IRQHandler
+                0x000000002000042a                GPIO27_IRQHandler
+                0x000000002000042c                GPIO28_IRQHandler
+                0x000000002000042e                GPIO29_IRQHandler
+                0x0000000020000430                GPIO30_IRQHandler
+                0x0000000020000432                GPIO31_IRQHandler
+                0x0000000020000434                mscc_post_hw_cfg_init
+                0x00000000200004b0                . = ALIGN (0x10)
+ *fill*         0x00000000200004ac        0x4 
+
+.text           0x00000000200004b0     0x1df0
+ CREATE_OBJECT_SYMBOLS
+                0x00000000200004b0                __text_load = LOADADDR (.text)
+                0x00000000200004b0                __text_start = .
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text.__do_global_dtors_aux
+                0x00000000200004b0       0x24 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x00000000200004d4       0x1c c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.read_bit_reg8
+                0x00000000200004f0       0x38 ./drivers/mss_uart/mss_uart.o
+ .text.UART0_IRQHandler
+                0x0000000020000528       0x24 ./drivers/mss_uart/mss_uart.o
+                0x0000000020000528                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x000000002000054c       0x24 ./drivers/mss_uart/mss_uart.o
+                0x000000002000054c                UART1_IRQHandler
+ .text.MSS_UART_isr
+                0x0000000020000570      0x208 ./drivers/mss_uart/mss_uart.o
+ .text.ComBlk_IRQHandler
+                0x0000000020000778       0x48 ./drivers/mss_sys_services/mss_comblk.o
+                0x0000000020000778                ComBlk_IRQHandler
+ .text.handle_tx_okay_irq
+                0x00000000200007c0      0x1b0 ./drivers/mss_sys_services/mss_comblk.o
+ .text.handle_rx_okay_irq
+                0x0000000020000970      0x210 ./drivers/mss_sys_services/mss_comblk.o
+ .text.complete_request
+                0x0000000020000b80       0x40 ./drivers/mss_sys_services/mss_comblk.o
+ .text.abort_current_cmd
+                0x0000000020000bc0       0x4c ./drivers/mss_sys_services/mss_comblk.o
+ .text.fill_tx_fifo
+                0x0000000020000c0c       0x60 ./drivers/mss_sys_services/mss_comblk.o
+ .text.process_sys_ctrl_command
+                0x0000000020000c6c       0x28 ./drivers/mss_sys_services/mss_comblk.o
+ .text.NVM_write
+                0x0000000020000c94      0x1f0 ./drivers/mss_nvm/mss_nvm.o
+                0x0000000020000c94                NVM_write
+ .text.get_error_code
+                0x0000000020000e84       0x58 ./drivers/mss_nvm/mss_nvm.o
+ .text.request_nvm_access
+                0x0000000020000edc       0x88 ./drivers/mss_nvm/mss_nvm.o
+ .text.get_ctrl_access
+                0x0000000020000f64       0x5e ./drivers/mss_nvm/mss_nvm.o
+ *fill*         0x0000000020000fc2        0x2 
+ .text.release_ctrl_access
+                0x0000000020000fc4       0x68 ./drivers/mss_nvm/mss_nvm.o
+ .text.wait_nvm_ready
+                0x000000002000102c       0x48 ./drivers/mss_nvm/mss_nvm.o
+ .text.write_nvm
+                0x0000000020001074      0x114 ./drivers/mss_nvm/mss_nvm.o
+ .text.get_remaining_page_length
+                0x0000000020001188       0x3c ./drivers/mss_nvm/mss_nvm.o
+ .text.fill_wd_buffer
+                0x00000000200011c4      0x110 ./drivers/mss_nvm/mss_nvm.o
+ .text.check_protection_reserved_nvm
+                0x00000000200012d4      0x4d0 ./drivers/mss_nvm/mss_nvm.o
+ .text.protection_check
+                0x00000000200017a4       0x2c ./drivers/mss_nvm/mss_nvm.o
+ .text.start_transfer
+                0x00000000200017d0      0x154 ./drivers/mss_hpdma/mss_hpdma.o
+ .text.HPDMA_Complete_IRQHandler
+                0x0000000020001924       0xf8 ./drivers/mss_hpdma/mss_hpdma.o
+                0x0000000020001924                HPDMA_Complete_IRQHandler
+ .text.HPDMA_Error_IRQHandler
+                0x0000000020001a1c      0x104 ./drivers/mss_hpdma/mss_hpdma.o
+                0x0000000020001a1c                HPDMA_Error_IRQHandler
+ .text.SystemInit
+                0x0000000020001b20       0x20 ./CMSIS/system_m2sxxx.o
+                0x0000000020001b20                SystemInit
+ .text.get_silicon_revision
+                0x0000000020001b40       0x48 ./CMSIS/system_m2sxxx.o
+ .text.silicon_workarounds
+                0x0000000020001b88       0x22 ./CMSIS/system_m2sxxx.o
+ *fill*         0x0000000020001baa        0x2 
+ .text.m2s050_rev_a_workarounds
+                0x0000000020001bac       0x30 ./CMSIS/system_m2sxxx.o
+ .text.main     0x0000000020001bdc      0x148 ./main.o
+                0x0000000020001bdc                main
+ .text.__libc_init_array
+                0x0000000020001d24       0x48 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x0000000020001d24                __libc_init_array
+ .text          0x0000000020001d6c       0xec c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                0x0000000020001d6c                memcpy
+ .text.memset   0x0000000020001e58       0xa0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x0000000020001e58                memset
+ .text.startup.register_fini
+                0x0000000020001ef8       0x14 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000020001f0c        0xc c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x0000000020001f0c                atexit
+ .text.__libc_fini_array
+                0x0000000020001f18       0x2c c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x0000000020001f18                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000020001f44        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x0000000020001f44                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000020001f48        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x0000000020001f48                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000020001f4c       0x8c c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x0000000020001f4c                __register_exitproc
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0000000020001fd8        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000020001fd8        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0000000020001fd8        0x0 linker stubs
+                0x0000000020001fd8                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.g_nvm  0x0000000020001fd8        0x8 ./drivers/mss_nvm/mss_nvm.o
+ .rodata.g_nvm32
+                0x0000000020001fe0        0x8 ./drivers/mss_nvm/mss_nvm.o
+ .rodata        0x0000000020001fe8      0x286 ./main.o
+ *fill*         0x000000002000226e        0x2 
+ .rodata._global_impure_ptr
+                0x0000000020002270        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x0000000020002270                _global_impure_ptr
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ .eh_frame      0x0000000020002274        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.vector_table)
+ *(.init)
+ .init          0x0000000020002274        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000020002274                _init
+ .init          0x0000000020002278        0x8 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000020002280        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000020002280                _fini
+ .fini          0x0000000020002284        0x8 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x000000002000228c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x000000002000228c                PROVIDE (__preinit_array_end = .)
+                0x000000002000228c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x000000002000228c        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020002290        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020002294                PROVIDE (__init_array_end = .)
+                0x0000000020002294                PROVIDE (__fini_array_start = .)
+ *(.fini_array)
+ .fini_array    0x0000000020002294        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000020002298                PROVIDE (__fini_array_end = .)
+                0x00000000200022a0                . = ALIGN (0x10)
+ *fill*         0x0000000020002298        0x8 
+                0x00000000200022a0                __exidx_start = .
+
+.v4_bx          0x00000000200022a0        0x0
+ .v4_bx         0x00000000200022a0        0x0 linker stubs
+
+.iplt           0x00000000200022a0        0x0
+ .iplt          0x00000000200022a0        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rel.dyn        0x00000000200022a0        0x0
+ .rel.iplt      0x00000000200022a0        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000000200022a0                __exidx_end = .
+                0x00000000200022a0                _etext = .
+                [!provide]                        PROVIDE (__text_end = .)
+
+.data           0x00000000200022a0      0x440
+                0x00000000200022a0                __data_load = LOADADDR (.data)
+                0x00000000200022a0                _sidata = LOADADDR (.data)
+                0x00000000200022a0                __data_start = .
+                0x00000000200022a0                _sdata = .
+ *(.jcr)
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.SystemCoreClock
+                0x00000000200022a0        0x4 ./CMSIS/system_m2sxxx.o
+                0x00000000200022a0                SystemCoreClock
+ *fill*         0x00000000200022a4        0x4 
+ .data.impure_data
+                0x00000000200022a8      0x428 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x00000000200026d0        0x4 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x00000000200026d0                __atexit_recursive_mutex
+                0x00000000200026e0                . = ALIGN (0x10)
+ *fill*         0x00000000200026d4        0xc 
+                0x00000000200026e0                _edata = .
+
+.igot.plt       0x00000000200026e0        0x0
+ .igot.plt      0x00000000200026e0        0x0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.bss            0x00000000200026e0      0x110
+                0x00000000200026e0                __bss_start__ = .
+                0x00000000200026e0                _sbss = .
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss.completed.8911
+                0x00000000200026e0        0x1 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *fill*         0x00000000200026e1        0x3 
+ .bss.object.8916
+                0x00000000200026e4       0x18 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss.g_comblk_cmd_opcode
+                0x00000000200026fc        0x1 ./drivers/mss_sys_services/mss_comblk.o
+ *fill*         0x00000000200026fd        0x3 
+ .bss.g_comblk_p_cmd
+                0x0000000020002700        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_cmd_size
+                0x0000000020002704        0x2 ./drivers/mss_sys_services/mss_comblk.o
+ *fill*         0x0000000020002706        0x2 
+ .bss.g_comblk_p_data
+                0x0000000020002708        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_data_size
+                0x000000002000270c        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_p_response
+                0x0000000020002710        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_response_size
+                0x0000000020002714        0x2 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_response_idx
+                0x0000000020002716        0x2 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_completion_handler
+                0x0000000020002718        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_page_handler
+                0x000000002000271c        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_request_in_progress
+                0x0000000020002720        0x1 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_comblk_state
+                0x0000000020002721        0x1 ./drivers/mss_sys_services/mss_comblk.o
+ *fill*         0x0000000020002722        0x2 
+ .bss.g_async_event_handler
+                0x0000000020002724        0x4 ./drivers/mss_sys_services/mss_comblk.o
+ .bss.g_do_not_lock_page
+                0x0000000020002728        0x1 ./drivers/mss_nvm/mss_nvm.o
+ .bss.g_envm_ctrl_locks
+                0x0000000020002729        0x1 ./drivers/mss_nvm/mss_nvm.o
+ *fill*         0x000000002000272a        0x2 
+ .bss.g_transfer
+                0x000000002000272c       0x18 ./drivers/mss_hpdma/mss_hpdma.o
+ .bss.g_hpdma_end_desc
+                0x0000000020002744        0x4 ./drivers/mss_hpdma/mss_hpdma.o
+ .bss.g_hpdma_current_desc
+                0x0000000020002748        0x4 ./drivers/mss_hpdma/mss_hpdma.o
+ *(COMMON)
+ COMMON         0x000000002000274c       0x80 ./drivers/mss_uart/mss_uart.o
+                0x000000002000274c                g_mss_uart1
+                0x000000002000278c                g_mss_uart0
+ COMMON         0x00000000200027cc       0x21 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x00000000200027cc                __lock___atexit_recursive_mutex
+                0x00000000200027d0                __lock___arc4random_mutex
+                0x00000000200027d4                __lock___env_recursive_mutex
+                0x00000000200027d8                __lock___sinit_recursive_mutex
+                0x00000000200027dc                __lock___malloc_recursive_mutex
+                0x00000000200027e0                __lock___at_quick_exit_mutex
+                0x00000000200027e4                __lock___dd_hash_mutex
+                0x00000000200027e8                __lock___tz_mutex
+                0x00000000200027ec                __lock___sfp_recursive_mutex
+                0x00000000200027f0                . = ALIGN (0x10)
+ *fill*         0x00000000200027ed        0x3 
+                0x00000000200027f0                __bss_end__ = .
+                0x00000000200027f0                _end = .
+                0x00000000200027f0                __end = _end
+                0x00000000200027f0                _ebss = .
+                [!provide]                        PROVIDE (end = .)
+
+.heap           0x00000000200027f0     0xc810
+                0x00000000200027f0                __heap_start__ = .
+                0x00000000200037f0                . = (. + MIN_SIZE_HEAP)
+ *fill*         0x00000000200027f0     0x1000 
+                0x000000002000f000                . = (. + (((ABSOLUTE (RAM_START_ADDRESS) + RAM_SIZE) - MAIN_STACK_SIZE) - .))
+ *fill*         0x00000000200037f0     0xb810 
+                0x000000002000f000                _eheap = .
+
+.stack          0x000000002000f000     0x1000
+                0x000000002000f000                __stack_start__ = .
+                0x0000000020010000                . = (. + MAIN_STACK_SIZE)
+ *fill*         0x000000002000f000     0x1000 
+                0x0000000020010000                _estack = .
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x1d0 ./drivers/mss_uart/mss_uart.o
+ .debug_aranges
+                0x00000000000001d0       0x90 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_aranges
+                0x0000000000000260       0x80 ./drivers/mss_nvm/mss_nvm.o
+ .debug_aranges
+                0x00000000000002e0       0x80 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_aranges
+                0x0000000000000360       0x20 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .debug_aranges
+                0x0000000000000380       0x50 ./CMSIS/system_m2sxxx.o
+ .debug_aranges
+                0x00000000000003d0       0x20 ./main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x62bc
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x1ea8 ./drivers/mss_uart/mss_uart.o
+ .debug_info    0x0000000000001ea8      0xb4b ./drivers/mss_sys_services/mss_comblk.o
+ .debug_info    0x00000000000029f3     0x12e0 ./drivers/mss_nvm/mss_nvm.o
+ .debug_info    0x0000000000003cd3     0x1231 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_info    0x0000000000004f04       0x26 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .debug_info    0x0000000000004f2a      0xb61 ./CMSIS/system_m2sxxx.o
+ .debug_info    0x0000000000005a8b      0x831 ./main.o
+
+.debug_abbrev   0x0000000000000000      0xd9d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x356 ./drivers/mss_uart/mss_uart.o
+ .debug_abbrev  0x0000000000000356      0x224 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_abbrev  0x000000000000057a      0x1f5 ./drivers/mss_nvm/mss_nvm.o
+ .debug_abbrev  0x000000000000076f      0x2a3 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_abbrev  0x0000000000000a12       0x14 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .debug_abbrev  0x0000000000000a26      0x1b2 ./CMSIS/system_m2sxxx.o
+ .debug_abbrev  0x0000000000000bd8      0x1c5 ./main.o
+
+.debug_line     0x0000000000000000     0x38e5
+ *(.debug_line)
+ .debug_line    0x0000000000000000     0x159a ./drivers/mss_uart/mss_uart.o
+ .debug_line    0x000000000000159a      0x89b ./drivers/mss_sys_services/mss_comblk.o
+ .debug_line    0x0000000000001e35      0xb56 ./drivers/mss_nvm/mss_nvm.o
+ .debug_line    0x000000000000298b      0x653 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_line    0x0000000000002fde      0x18e ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .debug_line    0x000000000000316c      0x41f ./CMSIS/system_m2sxxx.o
+ .debug_line    0x000000000000358b      0x35a ./main.o
+
+.debug_frame    0x0000000000000000     0x11ac
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x820 ./drivers/mss_uart/mss_uart.o
+ .debug_frame   0x0000000000000820      0x240 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_frame   0x0000000000000a60      0x208 ./drivers/mss_nvm/mss_nvm.o
+ .debug_frame   0x0000000000000c68      0x208 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_frame   0x0000000000000e70      0x10c ./CMSIS/system_m2sxxx.o
+ .debug_frame   0x0000000000000f7c       0x38 ./main.o
+ .debug_frame   0x0000000000000fb4       0x2c c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000fe0       0x38 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000001018       0x5c c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000001074       0x20 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000001094       0x34 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000000010c8       0xb0 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000001178       0x34 c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+
+.debug_str      0x0000000000000000     0xdda2
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0xbb68 ./drivers/mss_uart/mss_uart.o
+                                       0xbe43 (size before relaxing)
+ .debug_str     0x000000000000bb68      0x4e0 ./drivers/mss_sys_services/mss_comblk.o
+                                       0xa21b (size before relaxing)
+ .debug_str     0x000000000000c048      0xcd9 ./drivers/mss_nvm/mss_nvm.o
+                                       0xabef (size before relaxing)
+ .debug_str     0x000000000000cd21      0x775 ./drivers/mss_hpdma/mss_hpdma.o
+                                       0xab35 (size before relaxing)
+ .debug_str     0x000000000000d496       0x34 ./CMSIS/startup_gcc/startup_m2sxxx.o
+                                         0xa6 (size before relaxing)
+ .debug_str     0x000000000000d4ca      0x789 ./CMSIS/system_m2sxxx.o
+                                       0xa20c (size before relaxing)
+ .debug_str     0x000000000000dc53      0x14f ./main.o
+                                       0xa51c (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x1b ./hal/CortexM3/GNU/hal.o
+ .ARM.attributes
+                0x0000000000000080       0x1b ./hal/CortexM3/GNU/hw_reg_access.o
+ .ARM.attributes
+                0x000000000000009b       0x2d ./hal/CortexM3/cortex_nvic.o
+ .ARM.attributes
+                0x00000000000000c8       0x33 ./drivers_config/sys_config/sys_config.o
+ .ARM.attributes
+                0x00000000000000fb       0x2d ./drivers/mss_uart/mss_uart.o
+ .ARM.attributes
+                0x0000000000000128       0x2d ./drivers/mss_sys_services/mss_comblk.o
+ .ARM.attributes
+                0x0000000000000155       0x2d ./drivers/mss_sys_services/mss_sys_services.o
+ .ARM.attributes
+                0x0000000000000182       0x2d ./drivers/mss_rtc/mss_rtc.o
+ .ARM.attributes
+                0x00000000000001af       0x2d ./drivers/mss_nvm/mss_nvm.o
+ .ARM.attributes
+                0x00000000000001dc       0x2d ./drivers/mss_hpdma/mss_hpdma.o
+ .ARM.attributes
+                0x0000000000000209       0x2d ./drivers/mss_gpio/mss_gpio.o
+ .ARM.attributes
+                0x0000000000000236       0x2d ./CMSIS/startup_gcc/newlib_stubs.o
+ .ARM.attributes
+                0x0000000000000263       0x21 ./CMSIS/startup_gcc/startup_m2sxxx.o
+ .ARM.attributes
+                0x0000000000000284       0x2d ./CMSIS/system_m2sxxx.o
+ .ARM.attributes
+                0x00000000000002b1       0x2d ./main.o
+ .ARM.attributes
+                0x00000000000002de       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000000000000030b       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000338       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000365       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000392       0x1b c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000003ad       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000003da       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000407       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000434       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000461       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000000000000048e       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000004bb       0x2d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000000004e8       0x1d c:/microchip/softconsole-v2021.1/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.isr_vector)
+OUTPUT(NVM_write.elf elf32-littlearm)
+
+.debug_ranges   0x0000000000000000      0x3f0
+ .debug_ranges  0x0000000000000000      0x1d8 ./drivers/mss_uart/mss_uart.o
+ .debug_ranges  0x00000000000001d8       0xd0 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_ranges  0x00000000000002a8       0x70 ./drivers/mss_nvm/mss_nvm.o
+ .debug_ranges  0x0000000000000318       0x70 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_ranges  0x0000000000000388       0x58 ./CMSIS/system_m2sxxx.o
+ .debug_ranges  0x00000000000003e0       0x10 ./main.o
+
+.debug_macro    0x0000000000000000      0xefb
+ .debug_macro   0x0000000000000000      0x185 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000185      0x174 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x00000000000002f9      0x177 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000470       0xe2 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000552       0x22 ./drivers/mss_uart/mss_uart.o
+ .debug_macro   0x0000000000000574      0x168 ./drivers/mss_sys_services/mss_comblk.o
+ .debug_macro   0x00000000000006dc      0x2af ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x000000000000098b       0x16 ./drivers/mss_nvm/mss_nvm.o
+ .debug_macro   0x00000000000009a1      0x151 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000af2       0x5e ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000b50       0x94 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000be4       0x57 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000c3b       0x10 ./drivers/mss_hpdma/mss_hpdma.o
+ .debug_macro   0x0000000000000c4b      0x173 ./CMSIS/system_m2sxxx.o
+ .debug_macro   0x0000000000000dbe       0xf3 ./main.o
+ .debug_macro   0x0000000000000eb1       0x10 ./main.o
+ .debug_macro   0x0000000000000ec1       0x3a ./main.o
+
+.comment        0x0000000000000000       0x66
+ .comment       0x0000000000000000       0x66 ./drivers/mss_uart/mss_uart.o
+                                         0x67 (size before relaxing)
+ .comment       0x0000000000000066       0x67 ./drivers/mss_sys_services/mss_comblk.o
+ .comment       0x0000000000000066       0x67 ./drivers/mss_nvm/mss_nvm.o
+ .comment       0x0000000000000066       0x67 ./drivers/mss_hpdma/mss_hpdma.o
+ .comment       0x0000000000000066       0x67 ./CMSIS/system_m2sxxx.o
+ .comment       0x0000000000000066       0x67 ./main.o
