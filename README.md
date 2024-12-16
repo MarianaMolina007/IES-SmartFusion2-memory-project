@@ -8,7 +8,9 @@
 
 SmartFusion 2 FPGAs are low-density devices with the lowest power, proven security, and exceptional reliability for general-purpose functions. The way in which particles interact with semiconductors is diverse. These interactions can be cumulative or instantaneous. As described by the schematic presented by Campola and Pellish shown in Figure 1 three major interactions are the recombination of electron-hole pairs, nuclear displacement regarding lattice disruption and vacancies, and oxide-charge trapping due to the imperfection of interfaces.
 
-
+<p align="center">
+  <img width="70%" src="">
+</p>
 Figure 1: Main particle device interactions, from left to right, recombination, nuclear displacement
 and oxide charge trapping. Schematic developed and presented by [1].
 
@@ -28,6 +30,13 @@ and muons. These particles are random by nature, they are characterized by havin
 along their path penetrating through a sensitive structure. Figure 2 is a brief compilation of failure
 modes in different technologies [2]. The table includes some important destructive SEE modes such
 as single-event latchup, single-event gate rupture, or single-event burnout.
+
+<p align="center">
+  <img width="70%" src="">
+</p>
+Figure 2: Summary of SEE Vulnerabilities for different Technologies
+
+
 
 
 
