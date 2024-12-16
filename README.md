@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-  HARSH ENVIRONMENT CUBESAT PAYLOAD
+  Smartfusion2 TEM0001-01B memory testing
 </h1>
 <br>
 
