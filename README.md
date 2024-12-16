@@ -9,7 +9,7 @@
 SmartFusion 2 FPGAs are low-density devices with the lowest power, proven security, and exceptional reliability for general-purpose functions. The way in which particles interact with semiconductors is diverse. These interactions can be cumulative or instantaneous. As described by the schematic presented by Campola and Pellish shown in Figure 1 three major interactions are the recombination of electron-hole pairs, nuclear displacement regarding lattice disruption and vacancies, and oxide-charge trapping due to the imperfection of interfaces.
 
 <p align="center">
-  <img width="70%" src="">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/recomb.png">
 </p>
 Figure 1: Main particle device interactions, from left to right, recombination, nuclear displacement
 and oxide charge trapping. Schematic developed and presented by [1].
@@ -32,13 +32,41 @@ modes in different technologies [2]. The table includes some important destructi
 as single-event latchup, single-event gate rupture, or single-event burnout.
 
 <p align="center">
-  <img width="70%" src="">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/SEESuceptivility.png">
 </p>
 Figure 2: Summary of SEE Vulnerabilities for different Technologies
 
+## Irradiation with X-rays
 
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/1_irrad.jpeg">
+</p>
 
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/2_irrad.jpeg">
+</p>
 
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/3_irrad.jpeg">
+</p>
 
-[1]  
-[2]
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/4_irrad.jpeg">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/5_irrad.jpeg">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/6_irrad.jpeg">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/7_irrad.jpeg">
+</p>
+
+## References
+
+[1] M. Campola and J. Pellish, “V. radiation hardness assurance: Evolving for NewSpace,” RADECS, 2019.
+[2] R. Ladbury, “Strategies for see hardness assurance - from buy-it-and-fly-it to bullet proof,” 2017 IEEE Nuclear and Space Radiation Effects Conference (NSREC 2017), Jul. 2017
