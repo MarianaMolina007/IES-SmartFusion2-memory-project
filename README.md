@@ -46,9 +46,6 @@ Figure 2: Summary of SEE Vulnerabilities for different Technologies
   <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/2_irrad.jpeg">
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/3_irrad.jpeg">
-</p>
 
 <p align="center">
   <img width="70%" src="https://github.com/MarianaMolina007/IES-SmartFusion2-memory-project/blob/main/images/4_irrad.jpeg">
